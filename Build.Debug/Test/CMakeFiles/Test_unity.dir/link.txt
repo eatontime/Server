@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -O0 -Wreturn-type -g -ggdb    CMakeFiles/Test_unity.dir/cotire/Test_CXX_unity.cxx.o  -o ../../Bin.Debug/Test  -L/mnt/hgfs/test/Test/../libs  -L/usr/local/lib  -L/usr/lib64/mysql -rdynamic 

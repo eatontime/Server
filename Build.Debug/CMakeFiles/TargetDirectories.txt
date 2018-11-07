@@ -1,0 +1,5 @@
+/mnt/hgfs/test/Build.Debug/Base/CMakeFiles/Base_s.dir
+/mnt/hgfs/test/Build.Debug/Test/CMakeFiles/Test.dir
+/mnt/hgfs/test/Build.Debug/Test/CMakeFiles/Test_unity.dir
+/mnt/hgfs/test/Build.Debug/Test/CMakeFiles/all_unity.dir
+/mnt/hgfs/test/Build.Debug/Test/CMakeFiles/clean_cotire.dir

@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+70130e4995d2c891ace2f1bf04ed4e52 Test/CMakeFiles/all_unity
+2fcff2a16450a221d64694c7173a8c40 Test/CMakeFiles/clean_cotire
+fa6ec8bd9366e2dd63c7bd4687dba5e0 Test/cotire/Test_CXX_prefix.cxx
+3196f4b9147f6379627447393093e132 Test/cotire/Test_CXX_prefix.hxx
+3fd26325638bf211731e4596b00f6f2a Test/cotire/Test_CXX_unity.cxx

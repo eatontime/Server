@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -O0 -Wreturn-type -g -ggdb    CMakeFiles/Test.dir/Src/deprive/main.cpp.o  -o ../../Bin.Debug/Test  -L/mnt/hgfs/test/Test/../libs  -L/usr/local/lib  -L/usr/lib64/mysql -rdynamic -lpython2.7 -Wl,-rpath,/mnt/hgfs/test/Test/../libs:/usr/local/lib:/usr/lib64/mysql 
